@@ -1,0 +1,6 @@
+{
+  "name": "FinSight RAG Platform",
+  "description": "Production-grade RAG chatbot platform for financial services, featuring multi-document PDF ingestion, semantic retrieval with Gemini embeddings, and citation-grounded intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
