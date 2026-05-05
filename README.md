@@ -1,6 +1,6 @@
 # FinSight RAG Platform
 
-![FinSight RAG Platform Screenshot](./screenshot_main.png)
+![FinSight RAG Platform Screenshot](./src/screenshot_main.png)
 
 FinSight is a production-grade Retrieval-Augmented Generation (RAG) platform designed specifically for the financial services industry. It enables analysts and clients to interact with complex internal documents—such as investor letters, fund reports, and research materials—through a secure, high-accuracy AI interface.
 
